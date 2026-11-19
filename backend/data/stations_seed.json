@@ -1,0 +1,230 @@
+[
+  {
+    "river": "Ganga",
+    "name": "Allahabad",
+    "latitude": 25.40305556,
+    "longitude": 81.91138889
+  },
+  {
+    "river": "Ganga",
+    "name": "Ankinghat",
+    "latitude": 26.93305556,
+    "longitude": 80.03277778
+  },
+  {
+    "river": "Ganga",
+    "name": "Baluaghat",
+    "latitude": 25.42083333,
+    "longitude": 83.18361111
+  },
+  {
+    "river": "Ganga",
+    "name": "Basantpur",
+    "latitude": 29.10305556,
+    "longitude": 78.09861111
+  },
+  {
+    "river": "Ganga",
+    "name": "Bhitaura",
+    "latitude": 26.04194444,
+    "longitude": 80.85944444
+  },
+  {
+    "river": "Ganga",
+    "name": "Bithoor",
+    "latitude": 26.61687222,
+    "longitude": 80.27557778
+  },
+  {
+    "river": "Ganga",
+    "name": "Fatehgarh",
+    "latitude": 27.40138889,
+    "longitude": 79.62305556
+  },
+  {
+    "river": "Ganga",
+    "name": "Garhmukteshwar",
+    "latitude": 28.76638889,
+    "longitude": 78.14166667
+  },
+  {
+    "river": "Ganga",
+    "name": "Ghazipur (Veer Abdul Hamid Bridge)",
+    "latitude": 25.58555556,
+    "longitude": 83.60666667
+  },
+  {
+    "river": "Ganga",
+    "name": "Jajmau",
+    "latitude": 26.40944444,
+    "longitude": 80.44388889
+  },
+  {
+    "river": "Ganga",
+    "name": "Kachhla Bridge",
+    "latitude": 27.93194444,
+    "longitude": 78.8625
+  },
+  {
+    "river": "Ganga",
+    "name": "Kanpur",
+    "latitude": 26.47222222,
+    "longitude": 80.37861111
+  },
+  {
+    "river": "Ganga",
+    "name": "Katri Umrauli",
+    "latitude": 27.15055556,
+    "longitude": 79.88388889
+  },
+  {
+    "river": "Ganga",
+    "name": "Kazipura",
+    "latitude": 28.98694444,
+    "longitude": 78.74166667
+  },
+  {
+    "river": "Ganga",
+    "name": "Mehandipur",
+    "latitude": 27.0101,
+    "longitude": 79.98545833
+  },
+  {
+    "river": "Ganga",
+    "name": "Mirzapur",
+    "latitude": 25.1546,
+    "longitude": 82.5296
+  },
+  {
+    "river": "Ganga",
+    "name": "Parmarth Ghat",
+    "latitude": 26.48722222,
+    "longitude": 80.34444444
+  },
+  {
+    "river": "Ganga",
+    "name": "SITAMARHI",
+    "latitude": 25.27722222,
+    "longitude": 82.28722222
+  },
+  {
+    "river": "Ganga",
+    "name": "Saidpur",
+    "latitude": 25.53388889,
+    "longitude": 83.22111111
+  },
+  {
+    "river": "Ganga",
+    "name": "Shahzadpur",
+    "latitude": 25.66493889,
+    "longitude": 81.41861944
+  },
+  {
+    "river": "Ganga",
+    "name": "Shastri Bridge",
+    "latitude": 25.43666667,
+    "longitude": 81.88916667
+  },
+  {
+    "river": "Ganga",
+    "name": "V S Bridge",
+    "latitude": 25.25527778,
+    "longitude": 83.02527778
+  },
+  {
+    "river": "Ganga",
+    "name": "Varanasi",
+    "latitude": 25.32583333,
+    "longitude": 83.04
+  },
+  {
+    "river": "Yamuna",
+    "name": "AGRA (J.B.)",
+    "latitude": 27.20388889,
+    "longitude": 78.035
+  },
+  {
+    "river": "Yamuna",
+    "name": "AGRA(POIYAGHAT)",
+    "latitude": 27.25416667,
+    "longitude": 78.02305556
+  },
+  {
+    "river": "Yamuna",
+    "name": "AURAIYA",
+    "latitude": 26.42805556,
+    "longitude": 79.47888889
+  },
+  {
+    "river": "Yamuna",
+    "name": "Baghpat",
+    "latitude": 28.98799722,
+    "longitude": 77.20274444
+  },
+  {
+    "river": "Yamuna",
+    "name": "ETAWAH",
+    "latitude": 26.74972222,
+    "longitude": 78.98333333
+  },
+  {
+    "river": "Yamuna",
+    "name": "HAMIRPUR",
+    "latitude": 25.96027778,
+    "longitude": 80.15388889
+  },
+  {
+    "river": "Yamuna",
+    "name": "KALPI",
+    "latitude": 26.12916667,
+    "longitude": 79.75944444
+  },
+  {
+    "river": "Yamuna",
+    "name": "Kailas Mandir, Agra",
+    "latitude": 27.26666667,
+    "longitude": 78.03333333
+  },
+  {
+    "river": "Yamuna",
+    "name": "Kalanaur",
+    "latitude": 30.06783333,
+    "longitude": 77.35402222
+  },
+  {
+    "river": "Yamuna",
+    "name": "Mathura (Gokul Barrage)",
+    "latitude": 27.4425,
+    "longitude": 77.71361111
+  },
+  {
+    "river": "Yamuna",
+    "name": "Mawi",
+    "latitude": 29.3825,
+    "longitude": 77.15444444
+  },
+  {
+    "river": "Yamuna",
+    "name": "PRATAPPUR",
+    "latitude": 25.29944444,
+    "longitude": 81.56555556
+  },
+  {
+    "river": "Yamuna",
+    "name": "RAJAPUR",
+    "latitude": 25.38777778,
+    "longitude": 81.15444444
+  },
+  {
+    "river": "Yamuna",
+    "name": "Vrindavan-Yamuna ExpresswayLink Road Bridge U/S of Mathura",
+    "latitude": 27.56583333,
+    "longitude": 77.70777778
+  },
+  {
+    "river": "Yamuna",
+    "name": "Yamuna Highway Road Bridge",
+    "latitude": 27.23333333,
+    "longitude": 78.19916667
+  }
+]
